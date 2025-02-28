@@ -8,5 +8,6 @@ def main():
     print("\n")
     print("Asistencia para taller de Git 2024-2025S2:")
     print("1. Diego A. Estrada Rivera")
+    print("2. El Perro")
 main()
 
