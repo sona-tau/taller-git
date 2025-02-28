@@ -1,4 +1,4 @@
-def main()
+def main():
     print("Asistencia para taller de Git 2024-2025S1:")
     print("1. Diego A. Estrada Rivera")
     print("2. El Perro")
