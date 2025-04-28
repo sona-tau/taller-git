@@ -9,5 +9,6 @@ def main()
     print("Asistencia para taller de Git 2024-2025S2:")
     print("1. Diego A. Estrada Rivera")
     print("2. Prueba prueba")
+    print("3. La Zebra")
 main()
 
