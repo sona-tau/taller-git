@@ -10,5 +10,6 @@ def main()
     print("1. Diego A. Estrada Rivera")
     print("2. Prueba prueba")
     print("3. El Gato")
+    print("4. La Zebra")
 main()
 
